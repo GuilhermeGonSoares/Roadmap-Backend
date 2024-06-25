@@ -1,7 +1,6 @@
 # Backend Development Roadmap
 
 Este repositório serve como um guia central para o [Backend Development Roadmap](https://roadmap.sh/backend) e incluirá implementações práticas dos tópicos abordados, utilizando C#. O objetivo é documentar meu progresso nos estudos de desenvolvimento backend, demonstrando a aplicação prática dos conceitos através de exemplos em C#.
-![roadmap-backend](https://github.com/GuilhermeGonSoares/Roadmap-Backend/assets/99030229/9305efc9-e766-4984-a354-1898ad55c435)
 
 ## Estrutura do Repositório
 
