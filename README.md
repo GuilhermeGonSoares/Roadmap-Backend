@@ -10,7 +10,7 @@ Este repositório central se conectará a vários outros repositórios, cada um 
 
 Aqui estão alguns dos tópicos que serão abordados e os respectivos repositórios (links serão adicionados à medida que os repositórios forem criados):
 
-- **Autenticação**: [Authentication in C#](https://github.com/GuilhermeGonSoares/Authentication-Jwt) (link em breve)
+- **Autenticação**: [Authentication in C#](https://github.com/GuilhermeGonSoares/Authentication-Jwt)
 - **Microserviços**: [Implementing Microservices in C#](#) (link em breve)
 - **Bancos de Dados Relacionais e NoSQL**: [Databases in C#](#) (link em breve)
 - **Segurança Web**: [Web Security in C#](#) (link em breve)
