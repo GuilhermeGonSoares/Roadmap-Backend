@@ -12,7 +12,7 @@ Aqui estão alguns dos tópicos que serão abordados e os respectivos repositór
 
 - **Autenticação**: [Authentication in C#](https://github.com/GuilhermeGonSoares/Authentication-Jwt)
 - **Caching**: [Caching in C#](https://github.com/GuilhermeGonSoares/Caching)
-- **Testes**: [Testing in C#]([#](https://github.com/GuilhermeGonSoares/Testing))
+- **Testes**: [Testing in C#](https://github.com/GuilhermeGonSoares/Testing)
 
 ## Agradecimentos
 
